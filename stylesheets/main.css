@@ -5507,7 +5507,7 @@ img.mfp-img {
     width: 100% !important;
     overflow: hidden;
     position: relative;
-    margin-bottom: 2em;
+    margin-bottom: 0px !important;
     background: #ffffff;
     border-radius: .25em;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1); }
@@ -5597,6 +5597,7 @@ img.mfp-img {
   .cd-item-info b {
     float: left; }
     .cd-item-info b a {
+      font-size: 100%;
       color: #2f2933; }
   .cd-item-info .cd-price, .cd-item-info .cd-new-price {
     /* .cd-new-price not visible in the html document - created using jQuery */
