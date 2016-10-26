@@ -42,6 +42,17 @@
          fjs.parentNode.insertBefore(js, fjs);
        }(document, 'script', 'facebook-jssdk'));
     </script>
+    <script>
+          var map;
+          function initMap() {
+            map = new google.maps.Map(document.getElementById('map'), {
+              center: {lat: -34.052, lng: 150.644},
+              zoom: 8
+            });
+          }
+        </script>
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCgXt4hk2EYDbUBJC59vMyWYRQ50oK4_p8&callback=initMap"
+      async defer></script>
   </head>
   <body>
 
@@ -88,15 +99,15 @@
     <div class="social-widgets-wrap">
       <div class="social-widgets">
         <ul>
-          <li class="social-icon"><a href="#" class="fa fa-twitter"></a></li>
-          <li class="social-icon"><a href="#" class="fa fa-facebook"></a></li>
-          <li class="social-icon"><a href="#" class="fa fa-google-plus"></a></li>
-          <li class="social-icon"><a href="#" class="fa fa-youtube"></a></li>
-          <li class="social-icon"><a href="#" class="fa fa-linkedin"></a></li>
-          <li class="social-icon"><a href="#" class="fa fa-instagram"></a></li>
-          <li class="social-icon"><a href="#" class="fa fa-behance"></a></li>
-          <li class="social-icon"><a href="#" class="fa fa-pinterest"></a></li>
-          <li class="social-icon"><a href="#" class="fa fa-dribbble"></a></li>
+          <li class="social-icon"><a href="https://twitter.com/artprojunited" class="fa fa-twitter"></a></li>
+          <li class="social-icon"><a href="https://www.facebook.com/Art-Project-United-285846735147709/" class="fa fa-facebook"></a></li>
+          
+          
+          
+          <li class="social-icon"><a href="https://www.instagram.com/artprojectunited/" class="fa fa-instagram"></a></li>
+          
+          
+          
         </ul>
       </div>
     </div>
@@ -179,9 +190,7 @@
               <ul id="sub-menu2" class="sub-menu">
                 <li><span data-idpage="item-1-1" class="navscroll tooltip nav-works">Express Yourself</span></li>
                 <li><span data-idpage="item-2-1" class="navscroll tooltip nav-works">Spread the World</span></li>
-                <li><span data-idpage="item-3-1" class="navscroll tooltip nav-works">Item Name 3-1</span></li>
-                <li><span data-idpage="item-4-1" class="navscroll tooltip nav-works">Item Name 4-1</span></li>
-                <li><span data-idpage="item-5-1" class="navscroll tooltip nav-works">Item Name 5-1</span></li>
+                
               </ul>
             </li>
           </ul>
@@ -291,6 +300,7 @@
 </div>
 
 
+
 <div id="page-about" class="lower-page">
   
   <div class="center-container">
@@ -339,6 +349,7 @@
 </div>
 
 
+
 <div id="item-page-1" class="lower-page-works-intro">
   
   <div class="container sections">
@@ -365,6 +376,7 @@
   </div>
   
 </div>
+
 
 
 
@@ -400,6 +412,7 @@
   </div>
 </div>
 
+
 <section id="item-1" class="lower-page-works">
   <div class="col-item n-2">
     <div class="row-item n-1">
@@ -432,6 +445,7 @@
     </div>
   </div>
 </section>
+
 <section id="item-2" class="lower-page-works">
   <div class="col-item n-2">
     <div class="row-item n-1">
@@ -465,6 +479,7 @@
     </div>
   </div>
 </section>
+
 <section id="item-3" class="lower-page-works">
   <div class="col-item n-2">
     <div class="row-item n-1">
@@ -498,6 +513,7 @@
     </div>
   </div>
 </section>
+
 <section id="item-4" class="lower-page-works">
   <div class="col-item n-2">
     <div class="row-item n-1">
@@ -530,6 +546,7 @@
     </div>
   </div>
 </section>
+
 <section id="item-5" class="lower-page-works">
   <div class="col-item n-2">
     <div class="row-item n-1">
@@ -563,6 +580,7 @@
     </div>
   </div>
 </section>
+
 
 
 <div class="clearfix"></div>
@@ -601,6 +619,7 @@
   </div>
 </div>
 
+
 <section id="item-1-1" class="lower-page-works">
   <div class="col-item n-2">
     <div class="row-item n-1">
@@ -633,6 +652,7 @@
     </div>
   </div>
 </section>
+
 <section id="item-2-1" class="lower-page-works">
   <div class="col-item n-2">
     <div class="row-item n-1">
@@ -679,105 +699,8 @@
     </div>
   </div>
 </section>
-<section id="item-3-1" class="lower-page-works">
-  <div class="col-item n-2">
-    <div class="row-item n-1">
-      <div class="box-title">
-        <div class="box-table">
-          <div class="box-cell">
-            <h2>Item Name 3-1 <span class="item-desc">Fashion / Photography</span></h2>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row-item n-3">
-      <div data-photo-src="works-19.jpg" class="photo image-works">
-      </div>
-    </div>
-  </div>
-  <div class="col-item n-2">
-    <div class="row-item n-1">
-      <div class="box-table">
-        <div class="box-cell">
-          <div class="box-description">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dictum <a href="#">pharetra congue</a>.</p>
-            <p>Suspendisse ut feugiat orci, in laoreet augue. Aliquam ultricies, ligula non dignissim suscipit, neque nunc efficitur felis.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row-item n-3">
-      <div data-photo-src="works-20.jpg" class="photo image-works">
-      </div>
-    </div>
-  </div>
-</section>
-<section id="item-4-1" class="lower-page-works">
-  <div class="col-item n-2">
-    <div class="row-item n-1">
-      <div class="box-title">
-        <div class="box-table">
-          <div class="box-cell">
-            <h2>Item Name 4-1 <span class="item-desc">Fashion / Photography</span></h2>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row-item n-3">
-      <div data-photo-src="works-21.jpg" class="photo image-works">
-      </div>
-    </div>
-  </div>
-  <div class="col-item n-2">
-    <div class="row-item n-1">
-      <div class="box-table">
-        <div class="box-cell">
-          <div class="box-description">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dictum <a href="#">pharetra congue</a>.</p>
-            <p>Suspendisse ut feugiat orci, in laoreet augue. Aliquam ultricies, ligula non dignissim suscipit, neque nunc efficitur felis.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row-item n-3">
-      <div data-photo-src="works-22.jpg" class="photo image-works">
-      </div>
-    </div>
-  </div>
-</section>
-<section id="item-5-1" class="lower-page-works">
-  <div class="col-item n-2">
-    <div class="row-item n-1">
-      <div class="box-title">
-        <div class="box-table">
-          <div class="box-cell">
-            <h2>Item Name 5-1 <span class="item-desc">Fashion / Photography</span></h2>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row-item n-3">
-      <div data-photo-src="works-23.jpg" class="photo image-works">
-      </div>
-    </div>
-  </div>
-  <div class="col-item n-2">
-    <div class="row-item n-1">
-      <div class="box-table">
-        <div class="box-cell">
-          <div class="box-description">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dictum <a href="#">pharetra congue</a>.</p>
-            <p>Suspendisse ut feugiat orci, in laoreet augue. Aliquam ultricies, ligula non dignissim suscipit, neque nunc efficitur felis.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row-item n-3">
-      <div data-photo-src="works-24.jpg" class="photo image-works">
-      </div>
-    </div>
-  </div>
-</section>
+
+
 
 
 <div class="clearfix"></div>
@@ -962,6 +885,8 @@
 </div>
 
 
+
+
 <div id="page-news" class="lower-page">
   
   <div class="center-container">
@@ -1083,6 +1008,7 @@
 </div>
 
 
+
 <div id="page-testimonials" class="lower-page-testimonials bg-photo testimonials">
   
   <div class="curtains testimonials"></div>
@@ -1125,6 +1051,7 @@
 </div>
 
 
+
 <div id="page-contact" class="lower-page">
   
   <div class="center-container">
@@ -1155,13 +1082,13 @@
         
         <div class="row">
           <div class="col-md-4"><span class="awesome-contact"><span class="fa fa-map-marker"></span></span>
-            <p>ex nihilo, Inc.<br>                                    Touchdown Dr 1176</p>
+            <p>Greg McNeal, LA<br></p>
           </div>
           <div class="col-md-4"><span class="awesome-contact"><span class="fa fa-mobile"></span></span>
-            <p>[00] 11 - 76<br>                                    [01] 11 - 76</p>
+            <a href="tel:+13102107973" class="Blondie">Cel. +1 (310) 210 7973</a>
           </div>
           <div class="col-md-4"><span class="awesome-contact"><span class="fa fa-paper-plane"></span></span>
-            <p><a href="mailto:info.artprojectunited@gmail.com">info.artprojectunited@gmail.com</a><br><a href="mailto:info.artprojectunited@gmail.com">info@yourdomainname.com</a></p>
+            <p><a href="mailto:info.artprojectunited@gmail.com">info.artprojectunited@gmail.com</a><br><a href="mailto:gchavoc57@gmail.com">gchavoc57@gmail.com</a></p>
           </div>
         </div>
         
@@ -1173,27 +1100,14 @@
         </div>
         
         
+        <div id="wufoo-zmxzmul06dca6a">
+          Fill out my <a href="https://artprojectunited.wufoo.com/forms/zmxzmul06dca6a">online form</a>.
+        </div>
+        <div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Online contact and registration forms from <a href="http://www.wufoo.com">Wufoo</a>.</div>
+
         <div class="row">
           
-          <div id="contact-form">
-            <form id="form" action="contact.php" method="post" name="send">
-              <div>
-                <input id="name" name="name" placeholder="Name" type="text" class="requiredField name">
-              </div>
-              <div>
-                <input id="email" name="email" placeholder="Email" type="text" class="requiredField email">
-              </div>
-              <div>
-                <input id="subject" name="subject" placeholder="Subject" type="text" class="requiredField subject">
-              </div>
-              <div>
-                <textarea id="message" name="message" placeholder="Message" class="requiredField message"></textarea>
-              </div>
-              <div>
-                <button id="submit" type="submit" class="submit-button">Submit</button>
-              </div>
-            </form>
-          </div>
+          
           
         </div>
         
@@ -1222,24 +1136,29 @@
 </div>
 
 
+
 <div id="page-footer-credits" class="lower-page-footer-credits">
   
   <div class="container sections">
     
     <div class="row footer-credits">
-      <div data-idpage="page-home" class="footer-credits-logo navscroll bt-nav bt-nav-logo"><a href="#"><img alt="Logo Footer" src="images/logo-dark.png"></a></div>
+      <div data-idpage="page-home" class="footer-credits-logo navscroll bt-nav bt-nav-logo">
+        <a href="#">
+          <img alt="Logo Footer" src="images/logo-dark.png">
+        </a>
+      </div>
       
       <div class="social-icons-wrapper">
         <ul class="social-icons">
-          <li><a href="#" class="fa fa-twitter"></a></li>
-          <li class="social-icon"><a href="#" class="fa fa-facebook"></a></li>
-          <li class="social-icon"><a href="#" class="fa fa-google-plus"></a></li>
-          <li class="social-icon"><a href="#" class="fa fa-youtube"></a></li>
-          <li class="social-icon"><a href="#" class="fa fa-linkedin"></a></li>
-          <li class="social-icon"><a href="#" class="fa fa-instagram"></a></li>
-          <li class="social-icon"><a href="#" class="fa fa-behance"></a></li>
-          <li class="social-icon"><a href="#" class="fa fa-pinterest"></a></li>
-          <li class="social-icon"><a href="#" class="fa fa-dribbble"></a></li>
+          <li><a href="https://twitter.com/artprojunited" class="fa fa-twitter"></a></li>
+          <li class="social-icon"><a href="https://www.facebook.com/Art-Project-United-285846735147709/" class="fa fa-facebook"></a></li>
+          
+          
+          
+          <li class="social-icon"><a href="https://www.instagram.com/artprojectunited/" class="fa fa-instagram"></a></li>
+          
+          
+          
         </ul>
       </div>
       
@@ -1251,12 +1170,30 @@
 </div>
 
 
+
 <div class="lightbox"></div>
 
 
 
     <p>Hello</p>
     
+    
+    <script type="text/javascript">var zmxzmul06dca6a;(function(d, t) {
+    var s = d.createElement(t), options = {
+    'userName':'artprojectunited',
+    'formHash':'zmxzmul06dca6a',
+    'autoResize':true,
+    'height':'100%',
+    'async':true,
+    'host':'wufoo.com',
+    'header':'show',
+    'ssl':true};
+    s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
+    s.onload = s.onreadystatechange = function() {
+    var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+    try { zmxzmul06dca6a = new WufooForm();zmxzmul06dca6a.initialize(options);zmxzmul06dca6a.display(); } catch (e) {}};
+    var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+    })(document, 'script');</script>
     
     <script src="https://enzovezzaro.github.io/artprojectunited/javascripts/jquery-1.12.1.min.js"></script>
     
