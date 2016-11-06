@@ -196,7 +196,7 @@
       } else if (scrollTop >= $("#page-testimonials").offset().top && scrollTop < $("#page-contact").offset().top) {
           $('nav .navscroll').removeClass('active');
           //$("nav").find("[data-idpage='page-testimonials']").addClass('active');
-      } 
+      }
       //else if (scrollTop >= $("#page-contact").offset().top && scrollTop < $("#page-footer").offset().top) {
       //     $('nav .navscroll').removeClass('active');
       //     //$("nav").find("[data-idpage='page-contact']").addClass('active');

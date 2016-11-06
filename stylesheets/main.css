@@ -2813,7 +2813,7 @@ button, input, select, textarea {
       color: #fff; }
     .languages li.active a {
       color: #fff; }
-  .languages:hover {
+  /*.languages:hover {
     width: 130px;
     height: 70px; }
     .languages:hover li {
@@ -2821,7 +2821,7 @@ button, input, select, textarea {
       -moz-opacity: 1;
       -webkit-opacity: 1;
       filter: alpha(opacity=100);
-      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; }
+      -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; }*/
 
 /* link underline */
 .link-underline {
