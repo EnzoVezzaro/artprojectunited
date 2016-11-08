@@ -1,71 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on Material Docs</title>
+    <title>Post-rsses on UNITED || #ArtProjectUnited</title>
     <link>https://enzovezzaro.github.io/artprojectunited/post/index.xml</link>
-    <description>Recent content in Post-rsses on Material Docs</description>
+    <description>Recent content in Post-rsses on UNITED || #ArtProjectUnited</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Sat, 22 Oct 2016 13:49:24 -0700</lastBuildDate>
     <atom:link href="https://enzovezzaro.github.io/artprojectunited/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>about me post</title>
-      <link>https://enzovezzaro.github.io/artprojectunited/post/about-me-post/</link>
+      <title>Welcome</title>
+      <link>https://enzovezzaro.github.io/artprojectunited/post/welcome/</link>
       <pubDate>Sat, 22 Oct 2016 13:49:24 -0700</pubDate>
       
-      <guid>https://enzovezzaro.github.io/artprojectunited/post/about-me-post/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>about me post</title>
-      <link>https://enzovezzaro.github.io/artprojectunited/post/about-me-post0/</link>
-      <pubDate>Sat, 22 Oct 2016 13:49:24 -0700</pubDate>
-      
-      <guid>https://enzovezzaro.github.io/artprojectunited/post/about-me-post0/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>about me post</title>
-      <link>https://enzovezzaro.github.io/artprojectunited/post/about-me-post1/</link>
-      <pubDate>Sat, 22 Oct 2016 13:49:24 -0700</pubDate>
-      
-      <guid>https://enzovezzaro.github.io/artprojectunited/post/about-me-post1/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Good to Great Book Review</title>
-      <link>https://enzovezzaro.github.io/artprojectunited/post/good-to-great/</link>
-      <pubDate>Sun, 14 Feb 2016 16:11:58 +0530</pubDate>
-      
-      <guid>https://enzovezzaro.github.io/artprojectunited/post/good-to-great/</guid>
-      <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Good to Great Book Review</title>
-      <link>https://enzovezzaro.github.io/artprojectunited/post/good-to-great0/</link>
-      <pubDate>Sun, 14 Feb 2016 16:11:58 +0530</pubDate>
-      
-      <guid>https://enzovezzaro.github.io/artprojectunited/post/good-to-great0/</guid>
-      <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Good to Great Book Review</title>
-      <link>https://enzovezzaro.github.io/artprojectunited/post/good-to-great1/</link>
-      <pubDate>Sun, 14 Feb 2016 16:11:58 +0530</pubDate>
-      
-      <guid>https://enzovezzaro.github.io/artprojectunited/post/good-to-great1/</guid>
-      <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
+      <guid>https://enzovezzaro.github.io/artprojectunited/post/welcome/</guid>
+      <description>&lt;p&gt;We are concerned and stan together over the alarming and disturbing rate of murders of black and browns skin men, woman and children in this country.&lt;/p&gt;
+
+&lt;p&gt;Our goal is showing this country and the world our diversity history pride and unity! That&amp;rsquo;s we stand aware strong united worthy of a life and worth fighting for!&lt;/p&gt;
+
+&lt;p&gt;We are not only making history we are creating our own new history at the same time.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t think this has ever been done before on this scale ever. We will have images being posted from all over the country maybe the world.&lt;/p&gt;
+
+&lt;p&gt;All we ask is that your subjects are photographed in the united tank tops and we can see the united logo so everyone will know that your images are supporting and part of the art project united exhibition.&lt;/p&gt;
+
+&lt;p&gt;Feel free to use your creativity imagination and freedom of expression to create your vision, be creatively ambitious and fearless!&lt;/p&gt;
 </description>
     </item>
     
